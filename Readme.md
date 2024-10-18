@@ -37,4 +37,4 @@ This project uses [The Movie Database (TMDb) API](https://developers.themoviedb.
 
 Below is a basic mockup of the app design:
 
-![App Design Mockup](https://i.ibb.co/1nH0CgT/image.png)
+<a href="https://ibb.co/1nH0CgT"><img src="https://i.ibb.co/mBQRnj4/app-design-mockup.png" alt="app-design-mockup" border="0" /></a>
